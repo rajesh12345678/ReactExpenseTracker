@@ -2,7 +2,7 @@
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rajesh12345678.github.io/ReactExpenseTracker.git",
+  "homepage": "http://rajesh12345678.github.io/ReactExpenseTracker",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.14.1",
